@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Results-driven+&+Avid;If+you+need+to+build+your+website;+or+need+a+consultation;email+📧+me)](https://git.io/typing-svg)
 
 <a name="TOP"></a>
-
  
 I'm a passionate IT professional with a strong background in technical support, problem-solving, and user assistance. My portfolio showcases my skills and experience in tackling IT challenges efficiently.
 <section>
@@ -13,7 +12,7 @@ I'm a passionate IT professional with a strong background in technical support, 
         <li><a href="https://deehawk.github.io/viz/">Data Visualization Platform</a></li>
         <li><a href="https://deehawk.github.io/TIS.io/">Making Big Data Usable</a></li>
       </ul>
-<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="3%"/>*Software, Technology & Tools I randomly use:*
+<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="3%"/> ## *Software, Technology & Tools I randomly use:*
 
 <details><summary>Programming Languages:</summary><p>
 <code><img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="5%"/></code>
