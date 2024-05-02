@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1100"/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Results-driven+&+Avid;If+you+need+to+build+your+website;+or+need+a+consultation;email+📧+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Results-driven & Avid;If you need to build your website; or need a consultation; email me)](https://git.io/typing-svg)
 <a name="TOP"></a>
  
 I'm a passionate IT professional with a strong background in technical support, problem-solving, and user assistance. My portfolio showcases my skills and experience in tackling IT challenges efficiently.
