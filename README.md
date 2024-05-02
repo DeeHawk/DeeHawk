@@ -55,7 +55,7 @@ I'm a passionate IT professional with a strong background in technical support, 
 
  ## ⚡Soft Skills:
 
-🚀 Self-Driven 🚀 Team building 🚀 Adaptability 🚀 Flexibility 🚀 Consultation 🚀Creativity 🚀 Integrity 🚀 Dedicated 🚀
+🚀 Proactive Problem-Solving 🚀 Team building 🚀 Adaptability 🚀 Flexibility 🚀 Consultation 🚀Creativity 🚀 Integrity 🚀 Dedicated 🚀
  
  
  ## My typical days:
